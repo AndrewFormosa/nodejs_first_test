@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_first_test",
+  "version": "1.0.0",
+  "description": "nodejs example from scratch",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewFormosa/nodejs_first_test.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Andrew Formosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewFormosa/nodejs_first_test/issues"
+  },
+  "homepage": "https://github.com/AndrewFormosa/nodejs_first_test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
